@@ -1,8 +1,9 @@
 {
 	"author": "Colby Williams",
-	"classifications": [ "Xamarin" ],
+	"classifications": [ "Xamarin", "iOS" ],
 	"name": "Xamarin.iOS CollectionView",
-	"identity": "Xamarin.iOS.CollectionViewTemplate",	// Unique name for this template
+	"groupIdentity": "Xamarin.iOS.CollectionView",
+	"identity": "Xamarin.iOS.CollectionView",			// Unique name for this template
 	"shortName": "ioscollectionview",					// Short name that can be used on the cli
 	"tags": {
 	    "language": "C#"								// Specify that this template is in C#.

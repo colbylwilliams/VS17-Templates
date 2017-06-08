@@ -1,7 +1,8 @@
 {
 	"author": "Colby Williams",
-	"classifications": [ "Xamarin" ],
-	"name": "Xamarin.iOS Single Page",
+	"classifications": [ "Xamarin", "iOS" ],
+	"name": "Xamarin.iOS SinglePage",
+	"groupIdentity": "Xamarin.iOS.SinglePage",
 	"identity": "Xamarin.iOS.SinglePage",	// Unique name for this template
 	"shortName": "iospage",					// Short name that can be used on the cli
 	"tags": {
