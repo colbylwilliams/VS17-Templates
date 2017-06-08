@@ -1,0 +1,12 @@
+{
+	"author": "Colby Williams",
+	"classifications": [ "Xamarin" ],
+	"name": "Xamarin.iOS CollectionView",
+	"identity": "Xamarin.iOS.CollectionViewTemplate",	// Unique name for this template
+	"shortName": "ioscollectionview",					// Short name that can be used on the cli
+	"tags": {
+	    "language": "C#"								// Specify that this template is in C#.
+	},
+	"sourceName": "CollectionViewTemplate",				// Will replace the string 'CollectionViewTemplate' with the value provided via -n.
+	"preferNameDirectory" : "true"
+}

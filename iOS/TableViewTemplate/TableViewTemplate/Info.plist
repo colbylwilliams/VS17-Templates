@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>SinglePage</string>
+	<string>TableViewTemplate</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.company.singlepage</string>
+	<string>com.company.tableviewtemplate</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.0</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -20,7 +20,7 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
-	<string>SinglePage</string>
+	<string>TableViewTemplate</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
